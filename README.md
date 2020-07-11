@@ -1,7 +1,7 @@
-# Hello, my name is Yuri Martins. 👋
+### Hello, my name is Yuri Martins. 👋
 
-### I'm an expert in
-### UI Design and Front End Development.
+**I'm an expert in** <br />
+**UI Design and Front End Development.**
 
 > I love connecting brands and companies with their customers through good design, creating well thought out experiences with the combination of business and marketing.
 
