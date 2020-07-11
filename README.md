@@ -5,7 +5,7 @@
 
 <br />
 
-*❤️ I love connecting brands and companies with their customers through good design, <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;creating well thought out experiences with the combination of business and marketing.*
+*❤️ I love connecting brands and companies with their customers through good design, <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;creating well thought out experiences with the combination of business and marketing.*
 
 <br />
 
@@ -31,6 +31,6 @@
 <br />
 
 **🎖 There is also my small portfolio, where** <br />
-**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I publish some cases related to UI Design and posts on Medium.** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Know a little more about my processes.](https://yumartins.com.br)
+**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I publish some cases related to UI Design and posts on Medium.** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Know a little more about my processes.](https://yumartins.com.br)
 
