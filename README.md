@@ -31,6 +31,6 @@
 <br />
 
 **🎖 There is also my small portfolio, where** <br />
-**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I publish some cases related to UI Design and posts on Medium.** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Know a little more about my processes.](https://yumartins.com.br)
+**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I publish some cases related to UI Design and posts on Medium.** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Know a little more about my processes.](https://yumartins.com.br)
 
