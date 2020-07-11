@@ -30,10 +30,7 @@
 
 <br />
 
-**There is also my small portfolio, where I publish some cases related to UI Design and posts on Medium.**
+**There is also my small portfolio, where** <br />
+**I publish some cases related to UI Design and posts on Medium.** <br />
+[Know a little more about my processes.](https://yumartins.com.br)
 
-<a href="https://yumartins.com.br" style="color: #7636FF">
-  <b>Know a little more about my processes.</b>
-</a>https://github.com/uxflow
-
-🔭 I’m currently working on <a href="https://github.com/uxflow"><b>@uxflow</b></a>
