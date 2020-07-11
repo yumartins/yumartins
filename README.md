@@ -1,5 +1,3 @@
-<br />
-
 ### Hello, my name is Yuri Martins. 👋
 
 **I'm an expert in** <br />
@@ -7,7 +5,7 @@
 
 <br />
 
-> ❤️ I love connecting brands and companies with their customers through good design, <br />creating well thought out experiences with the combination of business and marketing.
+*❤️ I love connecting brands and companies with their customers through good design, <br />creating well thought out experiences with the combination of business and marketing.*
 
 <br />
 
@@ -32,7 +30,8 @@
 
 <br />
 
-**🎖 There is also my small portfolio, where** <br />
+🎖 <br />
+**There is also my small portfolio, where** <br />
 **I publish some cases related to UI Design and posts on Medium.** <br />
 [Know a little more about my processes.](https://yumartins.com.br)
 
