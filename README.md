@@ -1,7 +1,7 @@
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello, my name is Yuri Martins. 👋
+### Hello, my name is Yuri Martins. 👋
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**I'm an expert in** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**UI Design and Front End Development.**
+**I'm an expert in** <br />
+**UI Design and Front End Development.**
 
 <br />
 
@@ -9,9 +9,8 @@
 
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**You can find me on various social networks**
+**You can find me on various social networks**
 <div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/yumartins">
     <img src="http://yumartins.com.br/github/icon-github.svg" alt="Github" />
   </a>
@@ -31,7 +30,7 @@
 
 <br />
 
-**🎖 There is also my small portfolio, where**<br />
+**🎖 There is also my small portfolio, where** <br />
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I publish some cases related to UI Design and posts on Medium.** <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Know a little more about my processes.](https://yumartins.com.br)
 
