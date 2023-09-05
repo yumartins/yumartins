@@ -1,32 +1,24 @@
 ### Hello, my name is Yuri Martins. 👋
 
-**I'm an expert in** <br />
-**Software Engineer | Metaverse.**
+I am currently working on several projects as a Software Engineer and also with Metaverso and with that develops software from start to finish, I can participate from the idealization of the project to its final details for its completion.
 
-<br />
+Tools:
 
-*❤️ I love connecting brands and companies with their customers through good design, <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;creating well thought out experiences with the combination of business and marketing.*
+❤️ Typescript
 
-<br />
+Web:
+React + Next.js | Tailwind | Vue + Nuxt | Electron
 
-**You can find me on various social networks**
-<div>
-  <a href="https://github.com/yumartins">
-    <img src="http://yumartins.com.br/github/icon-github.svg" alt="Github" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/yumartinsux/">
-    <img src="http://yumartins.com.br/github/icon-instagram.svg" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yumartins/">
-    <img src="http://yumartins.com.br/github/icon-linkedin.svg" alt="Linkedin" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/_yumartins">
-    <img src="http://yumartins.com.br/github/icon-twitter.svg" alt="Twitter" />
-  </a>
-</div>
+Mobile:
+React Native + Expo
+
+Backend:
+Node + Prisma | Express | Fastify | NestJs
+
+Infrastructure:
+AWS | Vercel
+
+And another 300 tools...
 
 <br />
 
