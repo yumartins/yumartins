@@ -1,0 +1,24 @@
+**Plugins.**
+
+- (Color Highlight.)[https://github.com/enyancc/vscode-ext-color-highlight]
+- Docker.
+- Dotenv.
+- (EditorConfig.)[https://editorconfig.org/]
+- Eslint.
+- Expo Tools.
+- Fig.
+- Fluent Icons.
+- Github Actions.
+- Import Cost.
+- JavaScript and TypeScript Nightly.
+- Markdown All in One.
+- Material Icon Theme.
+- Mdx.
+- Stylelint.
+- One Hunter Theme.
+- Polacode.
+- Prettier - Code formatter.
+- Prisma.
+- Tailwind CSS IntelliSense.
+- WordPress Snippets.
+- Vue Language Features (Volar).

@@ -1,0 +1,111 @@
+{
+  "[html]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[prisma]": {
+    "editor.formatOnSave": true
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "breadcrumbs.enabled": true,
+  "css.validate": false,
+  "editor.accessibilitySupport": "off",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.eslint": true
+  },
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 16,
+  "editor.formatOnSave": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.lineHeight": 28,
+  "editor.maxTokenizationLineLength": 200000,
+  "editor.renderLineHighlight": "gutter",
+  "editor.rulers": [
+    80,
+    120
+  ],
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 2,
+  "eslint.format.enable": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "vue",
+    "markdown"
+  ],
+  "explorer.compactFolders": false,
+  "files.associations": {
+    "*.tsx": "typescriptreact",
+    ".prettierrc": "json",
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json"
+  },
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "**/.hg": true,
+    "**/.svn": true,
+    "**/CVS": true
+  },
+  "git.autofetch": true,
+  "json.schemas": [],
+  "material-icon-theme.files.associations": {
+    "tsconfig.json": "tune"
+  },
+  "material-icon-theme.folders.associations": {
+    ".storybook": "delta",
+    "admin": "guard",
+    "dtos": "typescript",
+    "entities": "class",
+    "fakes": "mock",
+    "firebase": "firebase",
+    "grpc": "pipe",
+    "http": "container",
+    "implementations": "core",
+    "infra": "app",
+    "migrations": "tools",
+    "modules": "components",
+    "protos": "pipe",
+    "react": "react-components",
+    "repositories": "mappings",
+    "schemas": "class",
+    "store": "mock",
+    "stories": "delta",
+    "websockets": "pipe"
+  },
+  "polacode.backgroundColor": "#181A29",
+  "polacode.shadow": "rgba(0, 0, 0, 0.24) 0px 32px 48px",
+  "polacode.transparentBackground": true,
+  "scss.validate": false,
+  "stylelint.enable": true,
+  "tabnine.experimentalAutoImports": true,
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.gpuAcceleration": "off",
+  "terminal.integrated.showExitAlert": false,
+  "typescript.tsserver.log": "verbose",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "workbench.editor.labelFormat": "short",
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.explorerKind": "external",
+  "settingsSync.ignoredSettings": [
+    "terminal.explorerKind"
+  ],
+  "git.openRepositoryInParentFolders": "always",
+  "window.commandCenter": true,
+  "workbench.productIconTheme": "fluent-icons",
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "workbench.colorTheme": "One Hunter Theme"
+}
