@@ -8,6 +8,23 @@ My background in Design, adds a unique layer to my professional approach. This u
 
 My relentless pursuit of daily evolution reflects my commitment to staying updated with the latest industry trends and technologies. I believe continuous learning is essential for driving innovation and delivering high-quality solutions.
 
+
+**Tools:**
+
+❤️ Typescript
+
+**Web:** <br />
+React + Next.js | Tailwind | Vue + Nuxt | Electron
+
+**Mobile:** <br />
+React Native + Expo
+
+**Backend:** <br />
+Node + Prisma | Express | Fastify | NestJs | Bun + Elysia
+
+**Infrastructure:** <br />
+AWS | Vercel
+
 <br />
 
 **🎖 There is also my small portfolio, where** <br />
