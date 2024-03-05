@@ -20,7 +20,7 @@ React + Next.js | Tailwind | Vue + Nuxt | Electron
 React Native + Expo
 
 **Backend:** <br />
-Node + Prisma | Express | Fastify | NestJs | Bun + Elysia
+Node | Express | Fastify | NestJs | Bun + Elysia
 
 **Infrastructure:** <br />
 AWS | Vercel
